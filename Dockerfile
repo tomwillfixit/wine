@@ -1,7 +1,7 @@
 # Wine docker image base
 
 FROM ubuntu:14.04
-MAINTAINER thshaw (tom@tomwillfixit.com)
+MAINTAINER thshaw <tom@tomwillfixit.com>
 
 RUN dpkg --add-architecture i386
 
